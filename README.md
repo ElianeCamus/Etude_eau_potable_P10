@@ -7,13 +7,14 @@ X
 
 
 ## Soft Skills
-- X  
-- X
-- X
+- Compréhension des besoins décisionnels des utilisateurs finaux  
+- Ajustement des visuels, du langage et de l'accessibilité selon les interlocuteurs  
+- Capacité à guider la réflexion et à susciter des prises de décision via un récit.  
 
 ## Compétences
-- X  
-- X
+- Création d'un tableau de bord interactif pour visualiser des données et faciliter la prise de décision    
+- Optimiser une solution de visualisation accessible, adaptée au public et au type de données
+- Capacité à engager un public via un récit dynamique des résultats.
 
 ## Outils utilisés
 Power BI Desktop
